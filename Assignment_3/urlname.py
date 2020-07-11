@@ -22,4 +22,3 @@ for i in range(count):
         urls.append(tag.get('href', None))
     url = urls[position]
     print('Retrieving:',url)
-    
